@@ -1,5 +1,12 @@
 # Cookbook Ionic 5 Firebase App with Angular 8 
 
+
+Réalisé par :
+
+EL FARKOUKI Abdelmajid
+BELLEL Oussama
+EL HAMMOUNI Mouad
+
 ## 
 ![](screenshots/1.PNG)
 ## 
