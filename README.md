@@ -3,9 +3,9 @@
 
 Réalisé par :
 
-EL FARKOUKI Abdelmajid
-BELLEL Oussama
-EL HAMMOUNI Mouad
+- EL FARKOUKI Abdelmajid
+- BELLEL Oussama
+- EL HAMMOUNI Mouad
 
 ## 
 ![](screenshots/1.PNG)
